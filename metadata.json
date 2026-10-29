@@ -1,0 +1,6 @@
+{
+  "name": "FSSAI FoSCoS Receipt Viewer",
+  "description": "Full screen HTML viewer for Food Safety and Standards Authority of India (FoSCoS) registration receipt for Royal Kitchen.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
